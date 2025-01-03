@@ -1170,6 +1170,7 @@ Built-in Rules
         .. code:: python
             from typing import Callable
             x: Callable[..., int]
+
     .. attribute:: INVALID
 
         .. code:: python
